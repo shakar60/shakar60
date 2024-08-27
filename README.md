@@ -9,7 +9,9 @@
 - roblox: shakar60 ```https://www.roblox.com/users/2050503403/profile```
 - snap: sh4kar60 ```https://snapchat.com/t/VXDHLDk7)```
 - youtube: sh4kar ```https://www.youtube.com/@sh4kar```
-- guns.lol: ```https://guns.lol/sh4kar60```
+- guns.lol: ```
+- https://guns.lol/sh4kar60
+- ```
 - tiktok: @sh4kar60
 
 

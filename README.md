@@ -49,5 +49,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main/LLOLPPROTECTED%20OORORIUMCLOCKS%20CAMLOCK%20LOLL",true))()
 
 <button class="btn" data-clipboard-text="test">
-    Copy to clipboard
+    Test
 </button>

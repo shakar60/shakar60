@@ -2,7 +2,6 @@
 
 - Hi, I’m shakar
 - Pronouns: he/him
-- I’m interested in exploiting
 - I’m currently learning lua coding
 - discord:sh4k4r6o https://discord.com/users/1246226071427481752
 - Discord Server: https://discord.gg/vwXXfnuxUg

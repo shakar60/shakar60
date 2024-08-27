@@ -1,4 +1,4 @@
-# About Me An My Socials
+# About Me And My Socials
 
 - Hi, I’m shakar
 - Pronouns: he/him

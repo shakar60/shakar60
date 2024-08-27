@@ -17,7 +17,7 @@
 
 #### --[[ USH Universal Shakars Hub (Orion Ui Library Version) ]]--
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/USH/main/key%20system%20protected",true))()
+# loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/USH/main/key%20system%20protected",true))()
 
 #### --[[ USH Universal Shakars Hub (Kavo Ui Library Version) ]]--
 

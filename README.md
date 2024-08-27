@@ -47,9 +47,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main
 #### --[[ OriumClocks Camlock (Half Made By Me) ]]--
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main/LLOLPPROTECTED%20OORORIUMCLOCKS%20CAMLOCK%20LOLL",true))()
-
-<input id="foo" value="p">
-
-<button class="btn" data-clipboard-target="#foo">
-    <img src="assets/clippy.svg" alt="Copy to clipboard">
-</button>

@@ -45,7 +45,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main
 ```
 
 -- If You Cant See The Camlock Button Use The Q Gui Under This.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎↓↓↓↓↓
+‎ ‎ ‎ ‎ ‎ ‎ ‎      ‎ ‎↓↓↓↓↓
 
 #### --[[ Q Gui ]]--
 

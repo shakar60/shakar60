@@ -44,7 +44,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main/protected%20polos%20camlock",true))()
 ```
 
--- If You Cant See The Camlock Button Use The Q Gui Under This!
+-- If You Cant See The Camlock Button Use The Q Gui Under This.
+         ↓↓↓↓↓↓
 
 #### --[[ Q Gui ]]--
 
@@ -53,7 +54,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main
 ```
 
 #### --[[ Anti Lock Resolver (Modified By Me) ]]
-
+                    ↓↓↓↓↓
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main/protected%20antilock%20resolver",true))()
 ```

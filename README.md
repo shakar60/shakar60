@@ -1,13 +1,13 @@
 # About Me And My Socials
 
-- Hi, I’m shakar
-- Pronouns: he/him
-- I’m currently learning lua coding
-- discord:sh4k4r6o https://discord.com/users/1246226071427481752
+- hi im shakar
+- pronouns: he/him
+- im currently learning about Lua and C++
+- discord:sh4k4r6o link: https://discord.com/users/1246226071427481752
 - Discord Server: https://discord.gg/vwXXfnuxUg
-- roblox: shakar60 https://www.roblox.com/users/2050503403/profile
-- snap: sh4kar60 https://snapchat.com/t/VXDHLDk7
-- youtube: sh4kar https://www.youtube.com/@sh4kar
+- roblox: shakar60 link: https://www.roblox.com/users/2050503403/profile
+- snap: sh4kar60 link: https://snapchat.com/t/VXDHLDk7
+- youtube: sh4kar link: https://www.youtube.com/@sh4kar
 - guns.lol: https://guns.lol/sh4kar60
 - tiktok: @sh4kar60
 
@@ -60,4 +60,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main/LLOLPPROTECTED%20OORORIUMCLOCKS%20CAMLOCK%20LOLL",true))()
+```
+
+#### --[[ Best Tool ]]--
+
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/scripts/main/TTTHE%20BEST%20TOOL%20RIGHT%20NOW%20PROTECTED%20LOLOL.lua",true))()
 ```
